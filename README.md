@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Carmine 👋
+
+Final-year Software Engineering student, building full-stack web apps end to end — from database design to production deployment.
+
+**Stack I work in:**
+- Backend: Laravel (Sanctum, Policies, Events, Redis caching, Queues)
+- Frontend: Vue 3 (Composition API)
+- Database: PostgreSQL
+- Currently learning: Rust + Tauri for desktop apps, Flutter for Mobile, and PostgreSQL administration
+
+**What I'm focused on right now:**
+- Deploying production apps on a VPS (Nginx, PHP-FPM, PostgreSQL)
+- Deepening Vue architecture patterns
+- Preparing a final-year defense project (AI integration, payment systems, SMS)
+
+**Notable projects:**
+- [work-nest](https://github.com/CarmineAkanabe/work-nest) — Laravel API for project/task management with Sanctum auth, Policies, Events, Redis caching
+- [j-hub](https://github.com/CarmineAkanabe/j-hub) — Job portal web app (Laravel Blade + AlpineJS)
+
+📫 Reach me: [TBA]
