@@ -30,7 +30,7 @@ Software Engineering student, building full-stack web apps end to end — from d
 - Deepening Vue architecture patterns
 
 **Notable projects:**
-- [work-nest](https://github.com/CarmineAkanabe/agora-api) — Laravel API for school ecommerce with Sanctum auth, Policies, Events, Redis caching.
+- [agora-api](https://github.com/CarmineAkanabe/agora-api) — Laravel API for school ecommerce with Sanctum auth, Policies, Events, Redis caching.
 - [j-hub](https://github.com/CarmineAkanabe/j-hub) — Job portal web app (Laravel Blade + AlpineJS)
 
 📫 Reach me: [TBA]
