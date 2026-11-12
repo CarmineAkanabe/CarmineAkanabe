@@ -1,39 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CarmineAkanabe/CarmineAkanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Carmine 👋
 
-Here are some ideas to get you started:
+**Software Engineering Graduate | Backend & Full-Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building decoupled web applications and REST APIs end-to-end — from database architecture to deployment.*
 
-### Hi, I'm Carmine 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serge-manju-602a3842a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjuserge@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/carmineakabane)
 
-Software Engineering student, building full-stack web apps end to end — from database design to production deployment.
+</div>
 
-**Stack I work in:**
-- Backend: Laravel/Php (RESTful, Websockets, GraphQL API)
-- Frontend: Vue 3 (Composition API, Web UI, Desktop app UI)
-- Desktop: Tauri/Rust with Vue Ts.
-- Database: PostgreSQL and SQLite.
-- Mobile: Flutter/Dart.
-- Currently learning: Rust/Tauri for desktop apps, Flutter for Mobile, and PostgreSQL administration
+---
 
-**What I'm focused on right now:**
-- Deploying production apps on a VPS (Nginx, PHP-FPM, PostgreSQL)
-- Deepening Vue architecture patterns
-- Expanding System Design Knowledge.
+### 🛠️ Tech Stack
 
-**Notable projects:**
-- [agora-api](https://github.com/CarmineAkanabe/agora-api) — Laravel API for school ecommerce with Sanctum auth, Policies, Events, Redis caching.
-- [j-hub](https://github.com/CarmineAkanabe/j-hub) — Job portal web app (Laravel Blade + AlpineJS)
+**Backend & APIs**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
-📫 Reach me: [Discord](https://discord.com/carmineakabane)
+**Frontend, Mobile & Desktop**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Databases, Caching & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Repositories
+
+#### 🛒 Agora Campus Marketplace
+*A decoupled student-to-student campus marketplace platform.*
+* **[agora-api](https://github.com/CarmineAkanabe/agora-api)** — Laravel REST API featuring Bearer token authentication, role policies, event-driven workflows, PostgreSQL storage, Redis caching, and Campay mobile money integration.
+* **[agora-vue](https://github.com/CarmineAkanabe/agora-vue)** — Responsive Vue.js + TypeScript frontend client consuming the Agora API with graceful demo-mode fallback.
+
+#### 🧩 Verita
+*Full-stack decoupled web application split across dedicated frontend and backend repositories.*
+* **[verita-api](https://github.com/CarmineAkanabe/verita-api)** — Backend service and REST API handling core business logic, authentication, and database persistence.
+* **[verita-vue](https://github.com/CarmineAkanabe/verita-vue)** — Interactive Vue.js frontend interface built to consume the Verita API.
+
+---
+
+### 🎯 Current Focus
+* **Systems & Architecture:** Designing clean, decoupled frontend/backend architectures and optimizing relational database performance.
+* **Production Infrastructure:** Deploying and maintaining Linux VPS environments (Nginx, PHP-FPM, PostgreSQL, Redis, Docker).
+* **Open to Work:** Actively looking for Backend or Full-Stack Software Engineering roles.
