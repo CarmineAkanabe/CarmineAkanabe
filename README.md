@@ -6,8 +6,6 @@
 
 *Building decoupled web applications and REST APIs end-to-end — from database architecture to deployment.*
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/carmineakabane)
-
 </div>
 
 ---
